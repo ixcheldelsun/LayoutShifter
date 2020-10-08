@@ -1,0 +1,11 @@
+body {
+    font-size: 16px;
+}
+
+.container .image-container {
+    width: 49vw;
+}
+
+.container .texts {
+    margin-left: 2rem;
+}

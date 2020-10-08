@@ -1,0 +1,37 @@
+body {
+    font-size: 15px;
+}
+
+.container {
+    flex-direction: row;
+}
+
+.container .texts {
+    width: 45vw;
+    height: 51.2vh;
+    margin-left: 1.5rem;
+    margin-right: 1rem;
+}
+
+.text-container .text-container__item {
+    height: 48%;
+}
+
+.container .image-container {
+    width: 49vw;
+    height: 50vh;
+    margin-left: 0;
+    margin-right: 0rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    top: 0.3rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.image-container img {
+    width: 45%;
+    margin: auto;
+}
+
